@@ -5,7 +5,7 @@ Frontend Developer | React | Next.js | Tailwind
 </p>
 
 <p align="center">
-Building modern web apps and creative digital projects 🚀
+Building modern web apps and creative digital projects🚀
 </p>
 
 ---
