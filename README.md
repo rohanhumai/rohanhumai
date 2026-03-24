@@ -47,7 +47,6 @@ JavaScript
 React
 Next.js
 Tailwind CSS
-Firebase
 
 ---
 
