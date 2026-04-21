@@ -15,7 +15,6 @@ Building modern web apps and creative digital projects🚀
 * 🎓 Second Year Engineering Student
 * 💻 Passionate about Frontend Development
 * ⚡ Currently building modern web applications
-* 🎬 Also create cinematic video edits
 
 ---
 
