@@ -22,7 +22,7 @@ Building modern web apps and creative digital projects🚀
 
 ### 📌 QR Attendance System
 
-A web-based attendance system using QR codes.
+A web-based attendance system using QR codes
 
 ### 📌 CourseSphere
 
