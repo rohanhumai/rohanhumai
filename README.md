@@ -26,15 +26,15 @@ A web-based attendance system using QR codes
 
 ### 📌 CourseSphere
 
-Platform where users can explore and access different courses.
+Platform where users can explore and access different courses
 
 ### 📌 Editing Portfolio
 
-Showcase website for my cinematic and gaming edits.
+Showcase website for my cinematic and gaming edits
 
 ### 📌 Developer Portfolio
 
-Personal website built using HTML, CSS and JavaScript.
+Personal website built using HTML, CSS and JavaScript
 
 ---
 
