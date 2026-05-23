@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Rohan Sable</h1>
 
 <p align="center">
-Frontend Developer | React | Next.js | Tailwind.
+Frontend Developer | React | Next.js | Tailwind
 </p>
 
 <p align="center">
